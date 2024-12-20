@@ -2,3 +2,4 @@
 
 some new paragraph
 bar
+foo
